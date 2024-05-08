@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\venkzhoien_nizhoi.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_2784e143b94ef22d12d3918b7a02809b</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\venkzhoien_nizhoi.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_2939a49f77b708eaa0ca60d87fea17fd</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\venkzhoien_nizhoi.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7ac778408641b852c90c7052c562534a</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\venkzhoien_nizhoi.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1e73e848120895a9d6688641b2bf48e2</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\venkzhoien_nizhoi.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_76d051ed458cd294a3d3fa262ec31446</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\..\build\venkzhoien_nizhoi.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_41839ce59039cc2ca8ea2b682467c885</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\..\build\venkzhoien_nizhoi.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3d8a2e3d4c84823a9eee9aefd631f906</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\..\build\venkzhoien_nizhoi.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>venkzhoien_nizhoi.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\venkzhoien_nizhoi\source\venkzhoien_nizhoi.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

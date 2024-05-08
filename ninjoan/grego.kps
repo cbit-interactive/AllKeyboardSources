@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.146.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Grego</Name>
+    <Copyright URL="">©CBit</Copyright>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>grego.ico</Name>
+      <Description>File grego.ico</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+    <File>
+      <Name>grego.keyman-touch-layout</Name>
+      <Description>File grego.keyman-touch-layout</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyman-touch-layout</FileType>
+    </File>
+    <File>
+      <Name>grego.kmn</Name>
+      <Description>File grego.kmn</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmn</FileType>
+    </File>
+    <File>
+      <Name>grego.kvks</Name>
+      <Description>File grego.kvks</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvks</FileType>
+    </File>
+  </Files>
+  <Keyboards/>
+  <Strings/>
+</Package>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>2</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\cbit_industries.ni.ninjoan.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_e64bd6cdefd85498d1e36ded7c08c200</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\cbit_industries.ni.ninjoan.model.ts</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_bea816ff477dd5f289c1c415c5dd1fc6</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\cbit_industries.ni.ninjoan.model.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5b591dda5f8dc707a9a0d82f43fcacc2</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\cbit_industries.ni.ninjoan.model_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1fe3f8b57eb50fd7714f9f3919b96b87</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\..\build\cbit_industries.ni.ninjoan.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>cbit_industries.ni.ninjoan.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\cbit_industries.ni.ninjoan\source\cbit_industries.ni.ninjoan.model.ts</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

@@ -1,0 +1,4 @@
+﻿store(&NAME) 'Perso Arabic (A' U+0027 'jhrebicya)'
+begin Unicode > use(main)
+
+group(main) using keys

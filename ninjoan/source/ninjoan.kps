@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.146.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <GraphicFile>banner.png</GraphicFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <AddUninstallEntry/>
+    <Items>
+      <Item>
+        <Name>Help</Name>
+        <FileName>(Product Help)</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+      <Item>
+        <Name>Product Config</Name>
+        <FileName>(Product Configuration)</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+    </Items>
+  </StartMenu>
+  <Info>
+    <Name URL="">Ninjoan</Name>
+    <Copyright URL="">© CBit Industries</Copyright>
+    <Author URL="mailto:general.cbit@gmail.com">CBit Industries</Author>
+    <Version URL="">3.0.0.1</Version>
+    <WebSite URL="https://cbit.interactive.com">https://cbit.interactive.com</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\ninjoan.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\ninjoan.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\ninjoan.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>NotoSansArabic-Regular.ttf</Name>
+      <Description>Font Noto Sans Arabic Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>NotoSans-Regular.ttf</Name>
+      <Description>Font Noto Sans Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>NotoSansSyriac-Regular.ttf</Name>
+      <Description>Font Noto Sans Syriac Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>ninjoan_flag.png</Name>
+      <Description>File ninjoan_flag.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>banner.png</Name>
+      <Description>File banner.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Ninjoan</Name>
+      <ID>ninjoan</ID>
+      <Version>3.0.0.1</Version>
+      <OSKFont>NotoSans-Regular.ttf</OSKFont>
+      <DisplayFont>NotoSans-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="ni">ni</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

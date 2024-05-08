@@ -1,0 +1,1468 @@
+{
+  "tablet": {
+    "font": "Calibri",
+    "layer": [
+      {
+        "id": "default",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "ҟ"
+              },
+              {
+                "id": "K_W",
+                "text": "v"
+              },
+              {
+                "id": "K_E",
+                "text": "ε",
+                "sk": [
+                  {
+                    "text": "έ",
+                    "id": "U_0388"
+                  },
+                  {
+                    "text": "ὲ",
+                    "id": "U_1F72"
+                  }
+                ]
+              },
+              {
+                "id": "K_R",
+                "text": "ρ"
+              },
+              {
+                "id": "K_T",
+                "text": "τ",
+                "sk": [
+                  {
+                    "text": "θ",
+                    "id": "U_03B8"
+                  }
+                ]
+              },
+              {
+                "id": "K_Y",
+                "text": "ј"
+              },
+              {
+                "id": "K_U",
+                "text": "υ",
+                "sk": [
+                  {
+                    "text": "ύ",
+                    "id": "U_1F7B"
+                  }
+                ]
+              },
+              {
+                "id": "K_I",
+                "text": "ι",
+                "sk": [
+                  {
+                    "text": "ί",
+                    "id": "U_1F77"
+                  }
+                ]
+              },
+              {
+                "id": "K_O",
+                "text": "ο",
+                "sk": [
+                  {
+                    "text": "ό",
+                    "id": "U_1F79"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "π"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "α",
+                "pad": 50,
+                "sk": [
+                  {
+                    "text": "ά",
+                    "id": "U_1F71"
+                  },
+                  {
+                    "text": "ἆ",
+                    "id": "U_1F06"
+                  }
+                ]
+              },
+              {
+                "id": "K_S",
+                "text": "σ",
+                "sk": [
+                  {
+                    "text": "ш",
+                    "id": "U_0448"
+                  }
+                ]
+              },
+              {
+                "id": "K_D",
+                "text": "δ"
+              },
+              {
+                "id": "K_F",
+                "text": "φ"
+              },
+              {
+                "id": "K_G",
+                "text": "г"
+              },
+              {
+                "id": "K_H",
+                "text": "η"
+              },
+              {
+                "id": "K_J",
+                "text": "ж"
+              },
+              {
+                "id": "K_K",
+                "text": "κ"
+              },
+              {
+                "id": "K_L",
+                "text": "λ"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": 1,
+                "nextlayer": "shift"
+              },
+              {
+                "id": "K_Z",
+                "text": "з"
+              },
+              {
+                "id": "K_X",
+                "text": "χ"
+              },
+              {
+                "id": "K_C",
+                "text": "ч"
+              },
+              {
+                "id": "K_V",
+                "text": "в"
+              },
+              {
+                "id": "K_B",
+                "text": "β"
+              },
+              {
+                "id": "K_N",
+                "text": "ν"
+              },
+              {
+                "id": "K_M",
+                "text": "μ"
+              },
+              {
+                "id": "K_PERIOD",
+                "text": ".",
+                "sk": [
+                  {
+                    "text": ",",
+                    "id": "K_COMMA"
+                  },
+                  {
+                    "text": "!",
+                    "id": "K_1",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "?",
+                    "id": "K_SLASH",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "'",
+                    "id": "K_QUOTE"
+                  },
+                  {
+                    "text": "\"",
+                    "id": "K_QUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "\\",
+                    "id": "K_BKSLASH"
+                  },
+                  {
+                    "text": ":",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": ";",
+                    "id": "K_COLON"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": 100,
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shift",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "Ҟ"
+              },
+              {
+                "id": "K_W",
+                "text": "V"
+              },
+              {
+                "id": "K_E",
+                "text": "Ε",
+                "sk": [
+                  {
+                    "text": "Ἐ",
+                    "id": "U_1F18"
+                  },
+                  {
+                    "text": "Ἑ",
+                    "id": "U_1F19"
+                  }
+                ]
+              },
+              {
+                "id": "K_R",
+                "text": "Ρ"
+              },
+              {
+                "id": "K_T",
+                "text": "Τ"
+              },
+              {
+                "id": "K_Y",
+                "text": "Ј"
+              },
+              {
+                "id": "K_U",
+                "text": "Υ",
+                "sk": [
+                  {
+                    "text": "Ὑ",
+                    "id": "U_1F59"
+                  }
+                ]
+              },
+              {
+                "id": "K_I",
+                "text": "Ι",
+                "sk": [
+                  {
+                    "text": "Ἰ",
+                    "id": "U_1F38"
+                  }
+                ]
+              },
+              {
+                "id": "K_O",
+                "text": "Ο",
+                "sk": [
+                  {
+                    "text": "Ὀ",
+                    "id": "U_1F48"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "Π"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "Α",
+                "pad": 50,
+                "sk": [
+                  {
+                    "text": "Ἀ",
+                    "id": "U_1F08"
+                  },
+                  {
+                    "text": "Ἆ",
+                    "id": "U_1F0E"
+                  }
+                ]
+              },
+              {
+                "id": "K_S",
+                "text": "Σ"
+              },
+              {
+                "id": "K_D",
+                "text": "Δ"
+              },
+              {
+                "id": "K_F",
+                "text": "Φ"
+              },
+              {
+                "id": "K_G",
+                "text": "Г"
+              },
+              {
+                "id": "K_H",
+                "text": "Η"
+              },
+              {
+                "id": "K_J",
+                "text": "Ж"
+              },
+              {
+                "id": "K_K",
+                "text": "Κ"
+              },
+              {
+                "id": "K_L",
+                "text": "Λ"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": 2,
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_Z",
+                "text": "З"
+              },
+              {
+                "id": "K_X",
+                "text": "Χ"
+              },
+              {
+                "id": "K_C",
+                "text": "Ч"
+              },
+              {
+                "id": "K_V",
+                "text": "В"
+              },
+              {
+                "id": "K_B",
+                "text": "Б"
+              },
+              {
+                "id": "K_N",
+                "text": "Ν"
+              },
+              {
+                "id": "K_M",
+                "text": "Μ"
+              },
+              {
+                "id": "K_PERIOD",
+                "text": ".",
+                "layer": "default",
+                "sk": [
+                  {
+                    "text": ",",
+                    "id": "K_COMMA",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "!",
+                    "id": "K_1",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "?",
+                    "id": "K_SLASH",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "'",
+                    "id": "K_QUOTE",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "\"",
+                    "id": "K_QUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "\\",
+                    "id": "K_BKSLASH",
+                    "layer": "default"
+                  },
+                  {
+                    "text": ":",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": ";",
+                    "id": "K_COLON",
+                    "layer": "default"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "numeric",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_1",
+                "text": "1"
+              },
+              {
+                "id": "K_2",
+                "text": "2"
+              },
+              {
+                "id": "K_3",
+                "text": "3"
+              },
+              {
+                "id": "K_4",
+                "text": "4"
+              },
+              {
+                "id": "K_5",
+                "text": "5"
+              },
+              {
+                "id": "K_6",
+                "text": "6"
+              },
+              {
+                "id": "K_7",
+                "text": "7"
+              },
+              {
+                "id": "K_8",
+                "text": "8"
+              },
+              {
+                "id": "K_9",
+                "text": "9"
+              },
+              {
+                "id": "K_0",
+                "text": "0"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_4",
+                "text": "Δ",
+                "pad": 50,
+                "layer": "shift",
+                "sk": [
+                  {
+                    "text": "$",
+                    "id": "U_0024"
+                  }
+                ]
+              },
+              {
+                "id": "K_2",
+                "text": "@",
+                "layer": "shift"
+              },
+              {
+                "id": "K_3",
+                "text": "#",
+                "layer": "shift"
+              },
+              {
+                "id": "K_5",
+                "text": "%",
+                "layer": "shift"
+              },
+              {
+                "id": "K_7",
+                "text": "&",
+                "layer": "shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "_",
+                "layer": "shift"
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "=",
+                "layer": "default"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "|",
+                "layer": "shift"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "\\",
+                "layer": "default"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_LBRKT",
+                "text": "[",
+                "pad": 110,
+                "sk": [
+                  {
+                    "id": "U_00AB",
+                    "text": "«"
+                  },
+                  {
+                    "id": "K_COMMA",
+                    "text": "<",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_LBRKT",
+                    "text": "{",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_9",
+                "text": "(",
+                "layer": "shift"
+              },
+              {
+                "id": "K_0",
+                "text": ")",
+                "layer": "shift"
+              },
+              {
+                "id": "K_RBRKT",
+                "text": "]",
+                "sk": [
+                  {
+                    "id": "U_00BB",
+                    "text": "»"
+                  },
+                  {
+                    "id": "K_PERIOD",
+                    "text": ">",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_RBRKT",
+                    "text": "}",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "+",
+                "layer": "shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "-"
+              },
+              {
+                "id": "K_8",
+                "text": "*",
+                "layer": "shift"
+              },
+              {
+                "id": "K_SLASH",
+                "text": "/"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": 100,
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_LOWER",
+                "text": "*abc*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fontsize": ""
+  },
+  "phone": {
+    "font": "Calibri",
+    "layer": [
+      {
+        "id": "default",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "ҟ"
+              },
+              {
+                "id": "K_W",
+                "text": "v"
+              },
+              {
+                "id": "K_E",
+                "text": "ε",
+                "sk": [
+                  {
+                    "text": "έ",
+                    "id": "U_0388"
+                  },
+                  {
+                    "text": "ὲ",
+                    "id": "U_1F72"
+                  }
+                ]
+              },
+              {
+                "id": "K_R",
+                "text": "ρ"
+              },
+              {
+                "id": "K_T",
+                "text": "τ",
+                "sk": [
+                  {
+                    "text": "θ",
+                    "id": "U_03B8"
+                  }
+                ]
+              },
+              {
+                "id": "K_Y",
+                "text": "ј"
+              },
+              {
+                "id": "K_U",
+                "text": "υ",
+                "sk": [
+                  {
+                    "text": "ύ",
+                    "id": "U_1F7B"
+                  }
+                ]
+              },
+              {
+                "id": "K_I",
+                "text": "ι",
+                "sk": [
+                  {
+                    "text": "ί",
+                    "id": "U_1F77"
+                  }
+                ]
+              },
+              {
+                "id": "K_O",
+                "text": "ο",
+                "sk": [
+                  {
+                    "text": "ό",
+                    "id": "U_1F79"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "π"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "α",
+                "pad": 50,
+                "sk": [
+                  {
+                    "text": "ά",
+                    "id": "U_1F71"
+                  },
+                  {
+                    "text": "ἆ",
+                    "id": "U_1F06"
+                  }
+                ]
+              },
+              {
+                "id": "K_S",
+                "text": "σ",
+                "sk": [
+                  {
+                    "text": "ш",
+                    "id": "U_0448"
+                  }
+                ]
+              },
+              {
+                "id": "K_D",
+                "text": "δ"
+              },
+              {
+                "id": "K_F",
+                "text": "φ"
+              },
+              {
+                "id": "K_G",
+                "text": "г"
+              },
+              {
+                "id": "K_H",
+                "text": "η"
+              },
+              {
+                "id": "K_J",
+                "text": "ж"
+              },
+              {
+                "id": "K_K",
+                "text": "κ"
+              },
+              {
+                "id": "K_L",
+                "text": "λ"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": 1,
+                "nextlayer": "shift"
+              },
+              {
+                "id": "K_Z",
+                "text": "з"
+              },
+              {
+                "id": "K_X",
+                "text": "χ"
+              },
+              {
+                "id": "K_C",
+                "text": "ч"
+              },
+              {
+                "id": "K_V",
+                "text": "в"
+              },
+              {
+                "id": "K_B",
+                "text": "β"
+              },
+              {
+                "id": "K_N",
+                "text": "ν"
+              },
+              {
+                "id": "K_M",
+                "text": "μ"
+              },
+              {
+                "id": "K_PERIOD",
+                "text": ".",
+                "sk": [
+                  {
+                    "text": ",",
+                    "id": "K_COMMA"
+                  },
+                  {
+                    "text": "!",
+                    "id": "K_1",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "?",
+                    "id": "K_SLASH",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "'",
+                    "id": "K_QUOTE"
+                  },
+                  {
+                    "text": "\"",
+                    "id": "K_QUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "\\",
+                    "id": "K_BKSLASH"
+                  },
+                  {
+                    "text": ":",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": ";",
+                    "id": "K_COLON"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": 100,
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shift",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_Q",
+                "text": "Ҟ"
+              },
+              {
+                "id": "K_W",
+                "text": "V"
+              },
+              {
+                "id": "K_E",
+                "text": "Ε",
+                "sk": [
+                  {
+                    "text": "Ἐ",
+                    "id": "U_1F18"
+                  },
+                  {
+                    "text": "Ἑ",
+                    "id": "U_1F19"
+                  }
+                ]
+              },
+              {
+                "id": "K_R",
+                "text": "Ρ"
+              },
+              {
+                "id": "K_T",
+                "text": "Τ"
+              },
+              {
+                "id": "K_Y",
+                "text": "Ј"
+              },
+              {
+                "id": "K_U",
+                "text": "Υ",
+                "sk": [
+                  {
+                    "text": "Ὑ",
+                    "id": "U_1F59"
+                  }
+                ]
+              },
+              {
+                "id": "K_I",
+                "text": "Ι",
+                "sk": [
+                  {
+                    "text": "Ἰ",
+                    "id": "U_1F38"
+                  }
+                ]
+              },
+              {
+                "id": "K_O",
+                "text": "Ο",
+                "sk": [
+                  {
+                    "text": "Ὀ",
+                    "id": "U_1F48"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "Π"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_A",
+                "text": "Α",
+                "pad": 50,
+                "sk": [
+                  {
+                    "text": "Ἀ",
+                    "id": "U_1F08"
+                  },
+                  {
+                    "text": "Ἆ",
+                    "id": "U_1F0E"
+                  }
+                ]
+              },
+              {
+                "id": "K_S",
+                "text": "Σ"
+              },
+              {
+                "id": "K_D",
+                "text": "Δ"
+              },
+              {
+                "id": "K_F",
+                "text": "Φ"
+              },
+              {
+                "id": "K_G",
+                "text": "Г"
+              },
+              {
+                "id": "K_H",
+                "text": "Η"
+              },
+              {
+                "id": "K_J",
+                "text": "Ж"
+              },
+              {
+                "id": "K_K",
+                "text": "Κ"
+              },
+              {
+                "id": "K_L",
+                "text": "Λ"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_SHIFT",
+                "text": "*Shift*",
+                "sp": 2,
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_Z",
+                "text": "З"
+              },
+              {
+                "id": "K_X",
+                "text": "Χ"
+              },
+              {
+                "id": "K_C",
+                "text": "Ч"
+              },
+              {
+                "id": "K_V",
+                "text": "В"
+              },
+              {
+                "id": "K_B",
+                "text": "Б"
+              },
+              {
+                "id": "K_N",
+                "text": "Ν"
+              },
+              {
+                "id": "K_M",
+                "text": "Μ"
+              },
+              {
+                "id": "K_PERIOD",
+                "text": ".",
+                "layer": "default",
+                "sk": [
+                  {
+                    "text": ",",
+                    "id": "K_COMMA",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "!",
+                    "id": "K_1",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "?",
+                    "id": "K_SLASH",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "'",
+                    "id": "K_QUOTE",
+                    "layer": "default"
+                  },
+                  {
+                    "text": "\"",
+                    "id": "K_QUOTE",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "\\",
+                    "id": "K_BKSLASH",
+                    "layer": "default"
+                  },
+                  {
+                    "text": ":",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": ";",
+                    "id": "K_COLON",
+                    "layer": "default"
+                  }
+                ]
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "*123*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "numeric"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "numeric",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_1",
+                "text": "1"
+              },
+              {
+                "id": "K_2",
+                "text": "2"
+              },
+              {
+                "id": "K_3",
+                "text": "3"
+              },
+              {
+                "id": "K_4",
+                "text": "4"
+              },
+              {
+                "id": "K_5",
+                "text": "5"
+              },
+              {
+                "id": "K_6",
+                "text": "6"
+              },
+              {
+                "id": "K_7",
+                "text": "7"
+              },
+              {
+                "id": "K_8",
+                "text": "8"
+              },
+              {
+                "id": "K_9",
+                "text": "9"
+              },
+              {
+                "id": "K_0",
+                "text": "0"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_4",
+                "text": "Δ",
+                "pad": 50,
+                "layer": "shift",
+                "sk": [
+                  {
+                    "text": "$",
+                    "id": "U_0024"
+                  }
+                ]
+              },
+              {
+                "id": "K_2",
+                "text": "@",
+                "layer": "shift"
+              },
+              {
+                "id": "K_3",
+                "text": "#",
+                "layer": "shift"
+              },
+              {
+                "id": "K_5",
+                "text": "%",
+                "layer": "shift"
+              },
+              {
+                "id": "K_7",
+                "text": "&",
+                "layer": "shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "_",
+                "layer": "shift"
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "=",
+                "layer": "default"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "|",
+                "layer": "shift"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "\\",
+                "layer": "default"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "K_LBRKT",
+                "text": "[",
+                "pad": 110,
+                "sk": [
+                  {
+                    "id": "U_00AB",
+                    "text": "«"
+                  },
+                  {
+                    "id": "K_COMMA",
+                    "text": "<",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_LBRKT",
+                    "text": "{",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_9",
+                "text": "(",
+                "layer": "shift"
+              },
+              {
+                "id": "K_0",
+                "text": ")",
+                "layer": "shift"
+              },
+              {
+                "id": "K_RBRKT",
+                "text": "]",
+                "sk": [
+                  {
+                    "id": "U_00BB",
+                    "text": "»"
+                  },
+                  {
+                    "id": "K_PERIOD",
+                    "text": ">",
+                    "layer": "shift"
+                  },
+                  {
+                    "id": "K_RBRKT",
+                    "text": "}",
+                    "layer": "shift"
+                  }
+                ]
+              },
+              {
+                "id": "K_EQUAL",
+                "text": "+",
+                "layer": "shift"
+              },
+              {
+                "id": "K_HYPHEN",
+                "text": "-"
+              },
+              {
+                "id": "K_8",
+                "text": "*",
+                "layer": "shift"
+              },
+              {
+                "id": "K_SLASH",
+                "text": "/"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": 100,
+                "sp": 1
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "K_LOWER",
+                "text": "*abc*",
+                "width": 150,
+                "sp": 1,
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "width": 120,
+                "sp": 1
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "width": 610,
+                "sp": 0
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "width": 150,
+                "sp": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fontsize": ""
+  }
+}

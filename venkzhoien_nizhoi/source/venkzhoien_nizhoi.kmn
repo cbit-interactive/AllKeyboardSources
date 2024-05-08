@@ -1,0 +1,21 @@
+﻿c venkzhoien_nizhoi generated from template at 2024-03-27 22:02:32
+c with name "Venkzhoien Nizhoi"
+store(&VERSION) '10.0'
+store(&NAME) 'Venkzhoien Nizhoi'
+store(&COPYRIGHT) '© CBit'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'venkzhoien_nizhoi.ico'
+store(&VISUALKEYBOARD) 'venkzhoien_nizhoi.kvks'
+store(&LAYOUTFILE) 'venkzhoien_nizhoi.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys
++ [K_Z] > 'ܙ'
++ [K_W] > 'ܘ'
++ [K_H] > 'ܗ'
++ [K_D] > 'ܕ'
++ [K_G] > 'ܓ'
++ [K_B] > 'ܒ'
++ [K_A] > 'ܐ'

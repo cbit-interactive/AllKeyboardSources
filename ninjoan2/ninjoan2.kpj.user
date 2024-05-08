@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\ninjoan2.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_3c655826524e094f050e0a099820daba</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\ninjoan2.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_ab49d32ddd5e64820d6ed038a0d231f7</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\ninjoan2.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_617d6bee87e89815e4940a55ebb74f48</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\ninjoan2.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5c55740f0848dc4baca59c03e647462d</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\ninjoan2.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6c60b1e031dd865476fbf0564f99089c</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\..\build\ninjoan2.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ad2d80d96b2d898b4f48dd5bdeccea85</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\..\build\ninjoan2.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_81d112050999810ce7313d43fe7acd12</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\..\build\ninjoan2.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>ninjoan2.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan2\source\ninjoan2.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
