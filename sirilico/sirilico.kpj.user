@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\sirilico\sirilico.kpj</path>
+  </ViewState>
   <FileStates>
     <FileState>
       <ID>id_87cc24c0a9fb26f4de1fe2eaa46ab78f</ID>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\sirilico\source\sirilico.kmn</FullPath>
-      <Debug>False</Debug>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
     </FileState>
     <FileState>
       <ID>id_a304f1ab39b04ff24e991be341d24b58</ID>
@@ -51,5 +63,12 @@
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\sirilico\source\readme.htm</FullPath>
     </FileState>
   </FileStates>
-  <MRU/>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>sirilico.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\sirilico\source\sirilico.kmn</FullPath>
+    </File>
+  </MRU>
 </KeymanDeveloperProjectUser>

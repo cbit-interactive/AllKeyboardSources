@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>3</tab>
+    <tab>1</tab>
     <showhelp>1</showhelp>
-    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\ninjoan.kpj</path>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\ninjoan.kpj</path>
   </ViewState>
   <FileStates>
     <FileState>
       <ID>id_9000edc466a90b7f99d857ed17000083</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.kmn</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -20,7 +20,7 @@
     </FileState>
     <FileState>
       <ID>id_192738a41cb5fe66f43c233ac051a0de</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.kps</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan.kps</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -28,23 +28,23 @@
     </FileState>
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\HISTORY.md</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\HISTORY.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\LICENSE.md</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\README.md</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\README.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_ad2b8f0ba6f081060a256a8a76977300</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\ninjoan.keyboard_info</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\ninjoan.keyboard_info</FullPath>
     </FileState>
     <FileState>
       <ID>id_1ca550191850e9ab8261c7c95c7efdbd</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\persoarabic.kmn</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\persoarabic.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -56,7 +56,7 @@
     </FileState>
     <FileState>
       <ID>id_54622388f004bbab91d09d6ca08f5430</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\ninjoano_alfabeto.kmn</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\ninjoano_alfabeto.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -68,7 +68,7 @@
     </FileState>
     <FileState>
       <ID>id_06837dd9dbf83be2a97e0b7a85104c9b</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kmn</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\grego.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -80,7 +80,7 @@
     </FileState>
     <FileState>
       <ID>id_9fe7a9073e65d72087c023a3981a2af1</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kps</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\grego.kps</FullPath>
       <IDEState>
         <CodeFont>Consolas|-9|   |0</CodeFont>
         <CharFont>Consolas|-9|   |0</CharFont>
@@ -88,115 +88,115 @@
     </FileState>
     <FileState>
       <ID>id_54d27b48737c61dffd25545e2f5df9c7</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.ico</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan.ico</FullPath>
     </FileState>
     <FileState>
       <ID>id_e4be2556f9b8eb99526c537bde4d9924</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\..\build\ninjoan.kmx</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\..\build\ninjoan.kmx</FullPath>
     </FileState>
     <FileState>
       <ID>id_a380ea4887417ce2f6db9126efc7b446</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\..\build\ninjoan.js</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\..\build\ninjoan.js</FullPath>
     </FileState>
     <FileState>
       <ID>id_62b45a1c42809690efd107e132652bc7</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\..\build\ninjoan.kvk</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\..\build\ninjoan.kvk</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\welcome.htm</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\readme.htm</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\readme.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_456a6c610f0b89a113bf3fe003130990</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\NotoSansArabic-Regular.ttf</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\NotoSansArabic-Regular.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_09edc4b02593bbe0898e08ad307ff3f4</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\NotoSans-Regular.ttf</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\NotoSans-Regular.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_b52265a037062e4a185561d6f2252a24</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\NotoSansSyriac-Regular.ttf</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\NotoSansSyriac-Regular.ttf</FullPath>
     </FileState>
     <FileState>
       <ID>id_5e8f75af63ef4f20dd57d23419ba8d34</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan_flag.png</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan_flag.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_a92ca4913a30e7015ad1c9b49374d783</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\banner.png</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\banner.png</FullPath>
     </FileState>
     <FileState>
       <ID>id_f08afa29c485d669996076dbd0fd3d08</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.ico</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\grego.ico</FullPath>
     </FileState>
     <FileState>
       <ID>id_df3851ace67d664aaa155cd6b341103e</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.keyman-touch-layout</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\grego.keyman-touch-layout</FullPath>
     </FileState>
     <FileState>
       <ID>id_ed513e88c79f60eee6109abe08bc2d3a</ID>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kvks</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\grego.kvks</FullPath>
     </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>grego.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kps</FullPath>
+      <Filename>ninjoan.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan.kmn</FullPath>
     </File>
     <File>
       <ID>id_MRU1</ID>
       <Filename>ninjoan.kps</Filename>
       <FileType>.kps</FileType>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.kps</FullPath>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\AllKeyboardSources\ninjoan\source\ninjoan.kps</FullPath>
     </File>
     <File>
       <ID>id_MRU2</ID>
+      <Filename>grego.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>ninjoan.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
       <Filename>grego.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\grego.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU3</ID>
+      <ID>id_MRU5</ID>
       <Filename>readme.htm</Filename>
       <FileType>.htm</FileType>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\readme.htm</FullPath>
     </File>
     <File>
-      <ID>id_MRU4</ID>
+      <ID>id_MRU6</ID>
       <Filename>ninjoan.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\ninjoan.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU5</ID>
+      <ID>id_MRU7</ID>
       <Filename>welcome.htm</Filename>
       <FileType>.htm</FileType>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\source\welcome.htm</FullPath>
     </File>
     <File>
-      <ID>id_MRU6</ID>
+      <ID>id_MRU8</ID>
       <Filename>persoarabic.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\persoarabic.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU7</ID>
-      <Filename>ninjoan.js</Filename>
-      <FileType>.js</FileType>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\build\ninjoan.js</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU8</ID>
-      <Filename>ninjoano_alfabeto.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan\ninjoano_alfabeto.kmn</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>

@@ -3,6 +3,160 @@
   <header>
     <version>10.0</version>
     <kbdname>sirilico</kbdname>
-    <flags/>
+    <flags>
+      <usealtgr/>
+    </flags>
   </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="SRA">
+      <key vkey="K_3">Є</key>
+      <key vkey="K_W">Ія</key>
+      <key vkey="K_Q">Ъ</key>
+      <key vkey="K_QUOTE">Ь</key>
+      <key vkey="K_I">Ї</key>
+      <key vkey="K_F">Ҙ</key>
+      <key vkey="K_R">Ѥ</key>
+      <key vkey="K_K">Ѥ</key>
+      <key vkey="K_J">Э</key>
+      <key vkey="K_G">Ц</key>
+      <key vkey="K_N">Ӈ</key>
+      <key vkey="K_L">Љ</key>
+      <key vkey="K_Z">Ӓ</key>
+      <key vkey="K_T">Ҫ</key>
+      <key vkey="K_P">Ѱ</key>
+      <key vkey="K_X">S</key>
+      <key vkey="K_E">Ё</key>
+      <key vkey="K_U">Ю</key>
+      <key vkey="K_Y">Я</key>
+      <key vkey="K_D">Щ</key>
+      <key vkey="K_S">Ш</key>
+      <key vkey="K_A">Ы</key>
+    </layer>
+    <layer shift="RA">
+      <key vkey="K_3">є</key>
+      <key vkey="K_Q">ъ</key>
+      <key vkey="K_L">љ</key>
+      <key vkey="K_N">ӈ</key>
+      <key vkey="K_G">ц</key>
+      <key vkey="K_K">ѣ</key>
+      <key vkey="K_J">э</key>
+      <key vkey="K_I">ї</key>
+      <key vkey="K_R">ѥ</key>
+      <key vkey="K_Z">ӓ</key>
+      <key vkey="K_W">ія</key>
+      <key vkey="K_F">ҙ</key>
+      <key vkey="K_T">ҫ</key>
+      <key vkey="K_P">ѱ</key>
+      <key vkey="K_X">s</key>
+      <key vkey="K_H">̔</key>
+      <key vkey="K_2">̀</key>
+      <key vkey="K_1">́</key>
+      <key vkey="K_BKQUOTE">̅</key>
+      <key vkey="K_U">ю</key>
+      <key vkey="K_Y">я</key>
+      <key vkey="K_D">щ</key>
+      <key vkey="K_S">ш</key>
+      <key vkey="K_QUOTE">ь</key>
+      <key vkey="K_A">ы</key>
+      <key vkey="K_E">ё</key>
+    </layer>
+    <layer shift="S">
+      <key vkey="K_1">!</key>
+      <key vkey="K_QUOTE">"</key>
+      <key vkey="K_3">#</key>
+      <key vkey="K_4">$</key>
+      <key vkey="K_5">%</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_9">(</key>
+      <key vkey="K_0">)</key>
+      <key vkey="K_8">*</key>
+      <key vkey="K_EQUAL">+</key>
+      <key vkey="K_COLON">:</key>
+      <key vkey="K_COMMA">&lt;</key>
+      <key vkey="K_PERIOD">&gt;</key>
+      <key vkey="K_SLASH">?</key>
+      <key vkey="K_2">@</key>
+      <key vkey="K_A">А</key>
+      <key vkey="K_B">Б</key>
+      <key vkey="K_C">Ч</key>
+      <key vkey="K_D">Д</key>
+      <key vkey="K_E">Е</key>
+      <key vkey="K_F">Ф</key>
+      <key vkey="K_G">Г</key>
+      <key vkey="K_H">Һ</key>
+      <key vkey="K_I">І</key>
+      <key vkey="K_J">Ж</key>
+      <key vkey="K_K">К</key>
+      <key vkey="K_L">Л</key>
+      <key vkey="K_M">M</key>
+      <key vkey="K_N">Н</key>
+      <key vkey="K_O">О</key>
+      <key vkey="K_P">П</key>
+      <key vkey="K_Q">Ҡ</key>
+      <key vkey="K_R">Р</key>
+      <key vkey="K_S">С</key>
+      <key vkey="K_T">Т</key>
+      <key vkey="K_U">У</key>
+      <key vkey="K_V">В</key>
+      <key vkey="K_W">Ў</key>
+      <key vkey="K_X">Х</key>
+      <key vkey="K_Y">Й</key>
+      <key vkey="K_Z">З</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_LBRKT">{</key>
+      <key vkey="K_BKSLASH">|</key>
+      <key vkey="K_RBRKT">}</key>
+      <key vkey="K_BKQUOTE">~</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">'</key>
+      <key vkey="K_COMMA">,</key>
+      <key vkey="K_HYPHEN">-</key>
+      <key vkey="K_PERIOD">.</key>
+      <key vkey="K_SLASH">/</key>
+      <key vkey="K_0">0</key>
+      <key vkey="K_1">1</key>
+      <key vkey="K_2">2</key>
+      <key vkey="K_3">3</key>
+      <key vkey="K_4">4</key>
+      <key vkey="K_5">5</key>
+      <key vkey="K_6">6</key>
+      <key vkey="K_7">7</key>
+      <key vkey="K_8">8</key>
+      <key vkey="K_9">9</key>
+      <key vkey="K_COLON">;</key>
+      <key vkey="K_EQUAL">=</key>
+      <key vkey="K_LBRKT">[</key>
+      <key vkey="K_BKSLASH">\</key>
+      <key vkey="K_RBRKT">]</key>
+      <key vkey="K_BKQUOTE">`</key>
+      <key vkey="K_A">а</key>
+      <key vkey="K_B">б</key>
+      <key vkey="K_C">ч</key>
+      <key vkey="K_D">д</key>
+      <key vkey="K_E">е</key>
+      <key vkey="K_F">ф</key>
+      <key vkey="K_G">г</key>
+      <key vkey="K_H">һ</key>
+      <key vkey="K_I">і</key>
+      <key vkey="K_J">ж</key>
+      <key vkey="K_K">к</key>
+      <key vkey="K_L">л</key>
+      <key vkey="K_M">м</key>
+      <key vkey="K_N">н</key>
+      <key vkey="K_O">о</key>
+      <key vkey="K_P">п</key>
+      <key vkey="K_Q">ҡ</key>
+      <key vkey="K_R">р</key>
+      <key vkey="K_S">с</key>
+      <key vkey="K_T">т</key>
+      <key vkey="K_U">у</key>
+      <key vkey="K_V">в</key>
+      <key vkey="K_W">ў</key>
+      <key vkey="K_X">х</key>
+      <key vkey="K_Y">й</key>
+      <key vkey="K_Z">з</key>
+    </layer>
+  </encoding>
 </visualkeyboard>
